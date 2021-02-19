@@ -1,0 +1,22 @@
+.back-home{
+ font-size:200%;
+ color: aquaman;
+ 
+}
+.back-cart{
+	color: aquaman;
+	font-size: 200%;
+	
+	
+}
+.header{
+   background-image: url(../WebContent/admin/muasam.png);
+   background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+h1{
+	color: red;
+}
